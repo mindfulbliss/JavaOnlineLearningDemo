@@ -11,6 +11,7 @@
  * The old array list is available for garbage collection. 
  * Incase of hashset a new hashset is created as soon as the loadfactor is 
  * filled (i.e 75% are filled)
+ * HashSet underlying data structure is HashTable.
  */
 package com.collectionsDemo;
 
